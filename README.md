@@ -1,2 +1,2 @@
-# BackendForgeSpring
-Backend practice space using Spring
+# BackendForge
+Backend practice space
